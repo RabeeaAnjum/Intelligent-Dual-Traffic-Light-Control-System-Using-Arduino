@@ -225,7 +225,7 @@ images/
 
 **Roll No:** 23-CSE-09
 
-Department of Computer Science
+Department of Computer Systems Engineering
 
 ---
 
